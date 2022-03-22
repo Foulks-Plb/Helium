@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://balloon-buster.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">804339810599</string>
+  <string name="google_storage_bucket" translatable="false">balloon-buster.appspot.com</string>
+  <string name="project_id" translatable="false">balloon-buster</string>
+  <string name="google_api_key" translatable="false">AIzaSyAAqPHOlQJdhSjWAOQzhvGn8wryK8LaoNs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAqPHOlQJdhSjWAOQzhvGn8wryK8LaoNs</string>
+  <string name="google_app_id" translatable="false">1:804339810599:android:f66595db2595ccdc666902</string>
+  <string name="default_android_client_id" translatable="false">804339810599-pialapo988i3mcr7682hk9mpv165q4ki.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">804339810599-0dcbldfp055i1hjrefcdrm62ek2ahhqi.apps.googleusercontent.com</string>
+</resources>
